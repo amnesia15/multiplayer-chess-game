@@ -1,0 +1,1711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" language="java" name="clientMessages.CheckmateMessage" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/CheckmateMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="142" x="1942" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="serverMessages.LoginRequestDenied" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/LoginRequestDenied.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="141" x="4991" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="figure.Rook" project="Project Theban" file="/Project Theban/src/figure/Rook.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="214" x="950" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="linguistics.SerbianLanguage" project="Project Theban" 
+    file="/Project Theban/src/linguistics/SerbianLanguage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="124" x="9960" y="2861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" language="java" name="game.GameConstants" project="Project Theban" 
+    file="/Project Theban/src/game/GameConstants.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="150" x="8707" y="2861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="6" language="java" name="serverMessages.OnlineFriends" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/OnlineFriends.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="136" x="4128" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="game.Move" project="Project Theban" file="/Project Theban/src/game/Move.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="179" x="964" y="2861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="specialComponents.PlayerSearchingLabel" project="Project Theban" 
+    file="/Project Theban/src/specialComponents/PlayerSearchingLabel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="257" x="8153" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="serverMessages.ServerMessage" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/ServerMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="131" x="5491" y="266"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="geometry.Point" project="Project Theban" 
+    file="/Project Theban/src/geometry/Point.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="210" x="964" y="3090"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="linguistics.Language" project="Project Theban" 
+    file="/Project Theban/src/linguistics/Language.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1017" width="243" x="9960" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="serverMessages.PlayerSearchEnded" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/PlayerSearchEnded.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="140" x="6118" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="server.Account" project="Project Theban" 
+    file="/Project Theban/src/server/Account.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="162" x="8431" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="specialComponents.FigureChoseButton" project="Project Theban" 
+    file="/Project Theban/src/specialComponents/FigureChoseButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="168" x="475" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="serverMessages.GameSearchList" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/GameSearchList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="325" x="6537" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="clientMessages.SearchForGame" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/SearchForGame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="183" x="3509" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="clientMessages.GameSessionEnded" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/GameSessionEnded.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="142" x="2985" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="server.ChatConnection" project="Project Theban" 
+    file="/Project Theban/src/server/ChatConnection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="135" x="288" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="server.Server.HandleAConnection" project="Project Theban" 
+    file="/Project Theban/src/server/Server.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="216" x="7139" y="266"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="server.UserConnection" project="Project Theban" 
+    file="/Project Theban/src/server/UserConnection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="380" x="10243" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="game.Graphics" project="Project Theban" 
+    file="/Project Theban/src/game/Graphics.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1215" width="269" x="8686" y="266"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="server.Game" project="Project Theban" file="/Project Theban/src/server/Game.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="219" x="9987" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="clientMessages.SearchForGameCancel" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/SearchForGameCancel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="157" x="2145" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="exceptions.Draw" project="Project Theban" 
+    file="/Project Theban/src/exceptions/Draw.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="131" x="2447" y="3090"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="appirience.Theme" project="Project Theban" 
+    file="/Project Theban/src/appirience/Theme.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="174" x="9475" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="serverMessages.FriendLogout" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/FriendLogout.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="131" x="4304" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="exceptions.Promotion" project="Project Theban" 
+    file="/Project Theban/src/exceptions/Promotion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="131" x="2105" y="3090"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="serverMessages.WaitingPlayersMessage" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/WaitingPlayersMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="271" x="4475" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="appirience.ClassicTheme" project="Project Theban" 
+    file="/Project Theban/src/appirience/ClassicTheme.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="105" x="9628" y="2861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="clientMessages.ChatSignOut" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/ChatSignOut.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="131" x="1396" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="server.WaitingPlayer" project="Project Theban" 
+    file="/Project Theban/src/server/WaitingPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="124" x="4475" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="serverMessages.EndOfGameMessage" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/EndOfGameMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="164" x="3753" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="server.RematchConformation" project="Project Theban" 
+    file="/Project Theban/src/server/RematchConformation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="200" x="9684" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="specialComponents.ChessButton" project="Project Theban" 
+    file="/Project Theban/src/specialComponents/ChessButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="178" x="6298" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="clientMessages.LoginRequest" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/LoginRequest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="159" x="8726" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="serverMessages.SignUpRequestDenied" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/SignUpRequestDenied.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="169" x="5357" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="clientMessages.GuestMessage" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/GuestMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="131" x="8995" y="266"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="game.GraphicLogic" project="Project Theban" 
+    file="/Project Theban/src/game/GraphicLogic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="148" x="9496" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="figure.King" project="Project Theban" file="/Project Theban/src/figure/King.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="214" x="696" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="serverMessages.StartANewGame" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/StartANewGame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="131" x="5566" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="server.Server" project="Project Theban" 
+    file="/Project Theban/src/server/Server.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="163" x="9947" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="serverMessages.ShowRematchDialog" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/ShowRematchDialog.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="145" x="5172" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="figure.Bishop" project="Project Theban" 
+    file="/Project Theban/src/figure/Bishop.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="214" x="104" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="clientMessages.GameDeclined" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/GameDeclined.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="131" x="3338" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="serverMessages.FriendLogin" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/FriendLogin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="131" x="3957" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="figure.Queen" project="Project Theban" 
+    file="/Project Theban/src/figure/Queen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="214" x="696" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="linguistics.EnglishLanguage" project="Project Theban" 
+    file="/Project Theban/src/linguistics/EnglishLanguage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="121" x="9773" y="2861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="serverMessages.SignUpRequestAccepted" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/SignUpRequestAccepted.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="165" x="4786" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="exceptions.Checkmate" project="Project Theban" 
+    file="/Project Theban/src/exceptions/Checkmate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="131" x="2276" y="3090"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="serverMessages.PlayerRatingUpdate" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/PlayerRatingUpdate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="153" x="5925" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="clientMessages.GameEnd" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/GameEnd.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="131" x="8492" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="clientMessages.PlayerMove" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/PlayerMove.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="134" x="7139" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="figure.Pawn" project="Project Theban" file="/Project Theban/src/figure/Pawn.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="214" x="400" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="serverMessages.LoginRequestAccepted" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/LoginRequestAccepted.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="188" x="7334" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="clientMessages.GameRequest" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/GameRequest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="186" x="2342" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="loader.ResourceLoader" project="Project Theban" 
+    file="/Project Theban/src/loader/ResourceLoader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="184" x="52" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="serverMessages.PlayerSearchInformation" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/PlayerSearchInformation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="222" x="7174" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="server.GuestConnection" project="Project Theban" 
+    file="/Project Theban/src/server/GuestConnection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="341" x="7772" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="serverMessages.GameAccepted" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/GameAccepted.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="176" x="6923" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="clientMessages.SignOutNotification" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/SignOutNotification.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="136" x="2809" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="clientMessages.GameAccept" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/GameAccept.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="131" x="3167" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="clientMessages.InformationSearchGames" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/InformationSearchGames.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="170" x="7562" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="clientMessages.SignUpRequest" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/SignUpRequest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="198" x="8925" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="clientMessages.TimesUpMessage" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/TimesUpMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="131" x="1225" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="clientMessages.SetUpChatConnection" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/SetUpChatConnection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="164" x="1738" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="server.GameSearch" project="Project Theban" 
+    file="/Project Theban/src/server/GameSearch.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="167" x="9163" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="clientMessages.DrawMessage" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/DrawMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="131" x="1567" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="game.Engine" project="Project Theban" file="/Project Theban/src/game/Engine.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="585" width="285" x="1185" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="clientMessages.ChatMessage" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/ChatMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="201" x="2568" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="server.Friend" project="Project Theban" 
+    file="/Project Theban/src/server/Friend.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="129" x="4128" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="71" language="java" name="figure.Figure" project="Project Theban" 
+    file="/Project Theban/src/figure/Figure.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="220" x="360" y="266"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="clientMessages.ClientMessage" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/ClientMessage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="131" x="2809" y="266"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" name="serverMessages.OnlinePlayersNumber" project="Project Theban" 
+    file="/Project Theban/src/serverMessages/OnlinePlayersNumber.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="148" x="5737" y="1521"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="bot.Bot" project="Project Theban" file="/Project Theban/src/bot/Bot.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="109" x="2146" y="2861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" name="clientMessages.AnswerRematch" project="Project Theban" 
+    file="/Project Theban/src/clientMessages/AnswerRematch.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="168" x="9752" y="1804"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" name="figure.Knight" project="Project Theban" 
+    file="/Project Theban/src/figure/Knight.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="214" x="64" y="2861"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="77">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="78">    
+    <bendpoint x="933" y="1804"/>    
+    <bendpoint x="933" y="2861"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <generalization id="79">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="80">    
+    <bendpoint x="9360" y="1521"/>    
+    <bendpoint x="9360" y="1804"/>    
+    <bendpoint x="9360" y="2861"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <generalization id="81">    
+    <end type="SOURCE" refId="62"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <association id="82">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="83" name="account">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="84" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="85">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="86">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <generalization id="87">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="88">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="89" name="answer1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="90" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="75" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="91">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <realization id="92">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <generalization id="93">    
+    <end type="SOURCE" refId="67"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <generalization id="94">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="95">    
+    <end type="SOURCE" refId="45" navigable="false">      
+      <attribute id="96" name="friend">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="97" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="98">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="50"/>  
+  </dependency>  
+  <generalization id="99">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <dependency id="100">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="60"/>  
+  </dependency>  
+  <generalization id="101">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="102">    
+    <bendpoint x="1194" y="2861"/>    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="103" name="attackers">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="104" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="105">    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="106" name="moves">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="107" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="108">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <generalization id="109">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <dependency id="110">    
+    <bendpoint x="9423" y="1521"/>    
+    <bendpoint x="9423" y="1804"/>    
+    <bendpoint x="9423" y="2861"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="49"/>  
+  </dependency>  
+  <dependency id="111">    
+    <bendpoint x="610" y="266"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <generalization id="112">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <generalization id="113">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="114">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <dependency id="115">    
+    <bendpoint x="9465" y="1521"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="116">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="73"/>  
+  </dependency>  
+  <generalization id="117">    
+    <end type="SOURCE" refId="73"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="118">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="119">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="120" name="friend">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="121" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="122">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="123">    
+    <bendpoint x="2306" y="2861"/>    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <association id="124">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="125" name="user1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="126" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="127">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="44"/>  
+  </dependency>  
+  <dependency id="128">    
+    <bendpoint x="9721" y="1804"/>    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="47"/>  
+  </dependency>  
+  <dependency id="129">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="130">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <association id="131">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="132" name="listOfSearchGames">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="133" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="134">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="135" name="from">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="136" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="137">    
+    <bendpoint x="839" y="1804"/>    
+    <bendpoint x="839" y="2861"/>    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="138">    
+    <bendpoint x="9564" y="266"/>    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="139" name="gameSearch">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="140" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="66" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="141">    
+    <end type="SOURCE" refId="69"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <dependency id="142">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="143">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="40"/>  
+  </dependency>  
+  <association id="144">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="145" name="graphicLogic">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="146" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="147">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <realization id="148">    
+    <bendpoint x="9402" y="1521"/>    
+    <bendpoint x="9402" y="1804"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <generalization id="149">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="150">    
+    <bendpoint x="327" y="1804"/>    
+    <bendpoint x="327" y="2861"/>    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="151">    
+    <bendpoint x="1215" y="2861"/>    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="152" name="selFigure">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="153" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="154">    
+    <bendpoint x="369" y="1804"/>    
+    <bendpoint x="369" y="2861"/>    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="155">    
+    <bendpoint x="8653" y="1521"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="156" name="account">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="157" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="158">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="54"/>  
+  </dependency>  
+  <dependency id="159">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="68"/>  
+  </dependency>  
+  <generalization id="160">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="161">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="162" name="language">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="163" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="164">    
+    <bendpoint x="9381" y="1521"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="75"/>  
+  </dependency>  
+  <dependency id="165">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <generalization id="166">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="167">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <dependency id="168">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <association id="169">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="170" name="player">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="171" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="172">    
+    <bendpoint x="832" y="266"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="173">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <generalization id="174">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="37"/>  
+  </generalization>  
+  <generalization id="175">    
+    <bendpoint x="73" y="1804"/>    
+    <bendpoint x="73" y="1521"/>    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <generalization id="176">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <generalization id="177">    
+    <end type="SOURCE" refId="65"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <dependency id="178">    
+    <bendpoint x="31" y="266"/>    
+    <bendpoint x="31" y="1521"/>    
+    <bendpoint x="52" y="1804"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="76"/>  
+  </dependency>  
+  <generalization id="179">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <dependency id="180">    
+    <bendpoint x="7303" y="1521"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="57"/>  
+  </dependency>  
+  <association id="181">    
+    <bendpoint x="390" y="1804"/>    
+    <bendpoint x="369" y="1521"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="182" name="fromFig">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="183" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="184">    
+    <bendpoint x="9935" y="1521"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="185">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="68"/>  
+  </dependency>  
+  <dependency id="186">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="49"/>  
+  </dependency>  
+  <realization id="187">    
+    <bendpoint x="9956" y="266"/>    
+    <bendpoint x="9956" y="1521"/>    
+    <bendpoint x="9700" y="1804"/>    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <generalization id="188">    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <association id="189">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="190" name="game">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="191" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="192">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="193" name="friends">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="194" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="70" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="195">    
+    <bendpoint x="10236" y="266"/>    
+    <bendpoint x="10236" y="1521"/>    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="196" name="connections">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="197" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="198">    
+    <bendpoint x="9444" y="1521"/>    
+    <bendpoint x="9444" y="1804"/>    
+    <bendpoint x="9444" y="2861"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <association id="199">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="200" name="buttonsChess">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="201" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="202">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="37"/>  
+  </generalization>  
+  <association id="203">    
+    <bendpoint x="9977" y="266"/>    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="204" name="games">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="205" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="206">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="66"/>  
+  </dependency>  
+  <association id="207">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="208" name="to">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="209" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="210">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <association id="211">    
+    <bendpoint x="9914" y="1521"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="212" name="userConnection">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="213" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="214">    
+    <bendpoint x="8674" y="1521"/>    
+    <bendpoint x="8674" y="1804"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="215">    
+    <bendpoint x="2285" y="2861"/>    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="49"/>  
+  </dependency>  
+  <dependency id="216">    
+    <bendpoint x="705" y="266"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <dependency id="217">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="68"/>  
+  </dependency>  
+  <generalization id="218">    
+    <bendpoint x="6892" y="1521"/>    
+    <end type="SOURCE" refId="57"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="219">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="76"/>  
+  </dependency>  
+  <generalization id="220">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <dependency id="221">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="222">    
+    <bendpoint x="8695" y="1521"/>    
+    <bendpoint x="8695" y="1804"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="74"/>  
+  </dependency>  
+  <dependency id="223">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="68"/>  
+  </dependency>  
+  <generalization id="224">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="225">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <dependency id="226">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="227">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="59"/>  
+  </dependency>  
+  <dependency id="228">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="69"/>  
+  </dependency>  
+  <generalization id="229">    
+    <end type="SOURCE" refId="61"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <association id="230">    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="231" name="bot">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="232" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="233">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <generalization id="234">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <dependency id="235">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="236">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <generalization id="237">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="238">    
+    <end type="SOURCE" refId="74" navigable="false">      
+      <attribute id="239" name="engine">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="240" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="241">    
+    <bendpoint x="8716" y="1804"/>    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <dependency id="242">    
+    <bendpoint x="8440" y="1521"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="243">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="51"/>  
+  </dependency>  
+  <realization id="244">    
+    <bendpoint x="2114" y="1521"/>    
+    <bendpoint x="2114" y="1804"/>    
+    <end type="SOURCE" refId="72"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <dependency id="245">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <association id="246">    
+    <bendpoint x="644" y="1521"/>    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="247" name="game">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="248" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="249">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="250">    
+    <bendpoint x="3722" y="266"/>    
+    <bendpoint x="3722" y="1521"/>    
+    <bendpoint x="2093" y="1804"/>    
+    <bendpoint x="2093" y="2861"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <association id="251">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="252" name="waitingPlayers">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="253" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="254">    
+    <bendpoint x="329" y="266"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <association id="255">    
+    <bendpoint x="1173" y="2861"/>    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="256" name="movFigures">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="257" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="258">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="259" name="user2">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="260" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="261">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <generalization id="262">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="71"/>  
+  </generalization>  
+  <generalization id="263">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <association id="264">    
+    <bendpoint x="9825" y="266"/>    
+    <end type="SOURCE" refId="41" navigable="false">      
+      <attribute id="265" name="rematchConformation">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="266" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="267">    
+    <bendpoint x="8461" y="1521"/>    
+    <end type="SOURCE" refId="75"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <dependency id="268">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="62"/>  
+  </dependency>  
+  <dependency id="269">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="270">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <generalization id="271">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <generalization id="272">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <association id="273">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="274" name="guestConnection">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="275" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="276">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="277" name="theme">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="278" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="279">    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="53"/>  
+  </dependency>  
+  <dependency id="280">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <association id="281">    
+    <bendpoint x="665" y="1521"/>    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="282" name="board">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="283" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="284">    
+    <bendpoint x="4629" y="1804"/>    
+    <end type="SOURCE" refId="52" navigable="false">      
+      <attribute id="285" name="playerMove">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="286" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="287">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="61"/>  
+  </dependency>  
+  <association id="288">    
+    <bendpoint x="6506" y="1521"/>    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="289" name="game">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="290" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="68" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="291">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <dependency id="292">    
+    <end type="SOURCE" refId="76"/>    
+    <end type="TARGET" refId="68"/>  
+  </dependency>  
+  <generalization id="293">    
+    <end type="SOURCE" refId="59"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <dependency id="294">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="63"/>  
+  </dependency>  
+  <generalization id="295">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <dependency id="296">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="51"/>  
+  </dependency>  
+  <dependency id="297">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <nesting id="298">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <dependency id="299">    
+    <bendpoint x="1194" y="266"/>    
+    <bendpoint x="1194" y="1521"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="68"/>  
+  </dependency>  
+  <dependency id="300">    
+    <bendpoint x="52" y="1521"/>    
+    <bendpoint x="31" y="1804"/>    
+    <bendpoint x="31" y="2861"/>    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="301">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="55"/>  
+  </dependency>  
+  <dependency id="302">    
+    <bendpoint x="9679" y="1804"/>    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="303">    
+    <bendpoint x="2114" y="2861"/>    
+    <end type="SOURCE" refId="68"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <generalization id="304">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="305">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="72"/>  
+  </generalization>  
+  <association id="306">    
+    <bendpoint x="348" y="1804"/>    
+    <bendpoint x="348" y="1521"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="307" name="toFig">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="308" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="309">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="310" name="answer2">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="311" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="75" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
